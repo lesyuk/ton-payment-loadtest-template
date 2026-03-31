@@ -1,0 +1,13 @@
+# Build output
+ton-payment-loadtest
+
+# Per-run logs
+logs/
+
+# Wallet files — contain mnemonics, NEVER commit
+wallets.json
+wallets-*.json
+
+# Env files
+.env
+.env.local
